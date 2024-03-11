@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! 🚀
 
----
-
 ## 🌟 About Me
 
 My absolute passion lies in creating products that make our everyday lives easier.
