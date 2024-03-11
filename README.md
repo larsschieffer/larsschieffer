@@ -5,7 +5,7 @@
 ## 🌟 About Me
 
 My absolute passion lies in creating products that make our everyday lives easier.
-I detest nothing more than doing the same things over and over again.
+I strive to avoid unnecessary repetition and always look for new ways to improve.
 
 Now, unfortunately, I have two left hands when it comes to topics like electrical circuits or creating inventions like washing machines or dishwashers.
 Fortunately, through my skills as a software developer, I can enable digital products that take work off our hands or offer exciting tasks in our spare time.
