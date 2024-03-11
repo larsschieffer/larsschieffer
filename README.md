@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 🚀
 
+<img src="https://raw.githubusercontent.com/larsschieffer/larsschieffer/main/assets/banner.jpg" alt="banner">
+
 ## 🌟 About Me
 
 My absolute passion lies in creating products that make our everyday lives easier.
