@@ -15,7 +15,7 @@ Everyone was able to contribute his/her strengths to improve the products so tha
 
 ## 🚀 My Philosophy
 
-To be always able to find the best solutions for emerging challenges, continuous training is essential for me because the focus is always on creating the best product for the customer.  
+To be always able to find the best solutions for emerging challenges, continuous training is essential for me because the focus is always on creating the best product for the customer.
 Frameworks for the frontend or backend are always just tools, so the highest interest for myself is to be able to handle them competently.
 Therefore, it doesn’t matter if the product uses Angular, React, Vue, Svelte, … I’m in!
 
